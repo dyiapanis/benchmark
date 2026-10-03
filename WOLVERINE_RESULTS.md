@@ -203,6 +203,9 @@ python3 vendor_breakdown.py     # per-vendor + fail mix -> results/vendor_breakd
 python3 score_mcp_series.py     # MCP depth series (runs 10-15)
 python3 summarize.py            # means + bands
 python3 tests_stale_ref.py      # offline unit checks of the stale-ref fix
+python3 verify_published_numbers.py  # machine-verifies EVERY number in this
+                                      # document against the raw JSONLs
+                                      # (exits non-zero on any mismatch)
 
 # run the bench yourself (needs a gateway/tenant key and an agent LLM)
 SEKRETO_API_KEY=... OLLAMA_API_KEY=... ./launch_run15_mcp_cloudflare.sh
