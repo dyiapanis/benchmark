@@ -1,0 +1,122 @@
+[
+ {
+  "task_id": 1,
+  "url": "https://indeed.com",
+  "blocked": true,
+  "title": "Just a moment..."
+ },
+ {
+  "task_id": 3,
+  "url": "https://gamestop.com",
+  "blocked": null,
+  "error": "Page.goto: SSL_ERROR_UNKNOWN\nCall log:\n  - navigating to \"https://gamestop.com/\", waiting until \"dom"
+ },
+ {
+  "task_id": 7,
+  "url": "https://doordash.com",
+  "blocked": false,
+  "title": "DoorDash: Food, Grocery and Retail - Fast Same Day"
+ },
+ {
+  "task_id": 8,
+  "url": "https://producthunt.com",
+  "blocked": true,
+  "title": "Just a moment..."
+ },
+ {
+  "task_id": 11,
+  "url": "https://nestle.com",
+  "blocked": true,
+  "title": "Just a moment..."
+ },
+ {
+  "task_id": 15,
+  "url": "https://mckinsey.com",
+  "blocked": true,
+  "title": "Access Denied"
+ },
+ {
+  "task_id": 16,
+  "url": "https://shein.com",
+  "blocked": false,
+  "title": "Women's & Men's Clothing, Shop Online Fashion | SH"
+ },
+ {
+  "task_id": 22,
+  "url": "https://columbia.edu",
+  "blocked": false,
+  "title": "Columbia University in the City of New York"
+ },
+ {
+  "task_id": 23,
+  "url": "https://reddit.com",
+  "blocked": false,
+  "title": ""
+ },
+ {
+  "task_id": 24,
+  "url": "https://sephora.com",
+  "blocked": false,
+  "title": "Makeup, Skincare, Fragrance, Hair & Beauty Product"
+ },
+ {
+  "task_id": 25,
+  "url": "https://mercari.com",
+  "blocked": false,
+  "title": "Your Go-to Marketplace for Deals on Used & Secondh"
+ },
+ {
+  "task_id": 27,
+  "url": "https://paramountplus.com",
+  "blocked": false,
+  "title": "Paramount+ Brasil | Assistir filmes e s\u00e9ries de TV"
+ },
+ {
+  "task_id": 28,
+  "url": "https://qatarairways.com",
+  "blocked": false,
+  "title": "Book Flights with a World-class Airline | Qatar Ai"
+ },
+ {
+  "task_id": 29,
+  "url": "https://walmart.com",
+  "blocked": false,
+  "title": "Walmart | Save Money. Live better."
+ },
+ {
+  "task_id": 30,
+  "url": "https://wayfair.com",
+  "blocked": true,
+  "title": "Access to this page has been denied"
+ },
+ {
+  "task_id": 32,
+  "url": "https://zillow.com",
+  "blocked": false,
+  "title": "Zillow: Real Estate, Apartments, Mortgages & Home "
+ },
+ {
+  "task_id": 33,
+  "url": "https://bloomberg.com",
+  "blocked": false,
+  "title": "Bloomberg Latin America"
+ },
+ {
+  "task_id": 36,
+  "url": "https://belk.com",
+  "blocked": false,
+  "title": "Belk Spa"
+ },
+ {
+  "task_id": 37,
+  "url": "https://anntaylor.com",
+  "blocked": true,
+  "title": "Access to this page has been denied."
+ },
+ {
+  "task_id": 38,
+  "url": "https://yeti.com",
+  "blocked": true,
+  "title": "Access to this page has been denied"
+ }
+]
